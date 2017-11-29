@@ -1,0 +1,197 @@
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+root - INFO - hfp
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: count() missing 1 required positional argument: 'args'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ghjghjg
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - fghff
+root - INFO - ['"раз', 'раз"']
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 24, in count
+    update.message.reply_text(user_text.split(' ').count)
+AttributeError: 'list' object has no attribute 'split'
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ghjdthrf cdzpb jg
+root - INFO - 2
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 24, in count
+    update.message.reply_text(user_text.split(' ').count)
+AttributeError: 'int' object has no attribute 'split'
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - hgj
+root - INFO - 2
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - 0
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - "раз
+root - INFO - ['"раз']
+root - INFO - "раз
+root - INFO - "1
+root - INFO - ['"1']
+root - INFO - "1
+root - INFO - 1
+root - INFO - ['1']
+root - INFO - 1
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['1', '2', '3']
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/dispatcher.py", line 270, in process_update
+    handler.handle_update(update, self)
+  File "/home/nas/.local/lib/python3.5/site-packages/telegram/ext/commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot.py", line 24, in count
+    lists = user_text.split(' ')
+AttributeError: 'list' object has no attribute 'split'
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['1', '2', '3']
+root - INFO - ['1', '2', '3']
+root - INFO - ['1', '2', '3']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['1', '2', '3']
+root - INFO - ['1', '2', '3']
+root - INFO - ['1', '2', '3']
+root - INFO - ['"1', '2', '3"']
+root - INFO - ['"1', '2', '3"']
+root - INFO - ['"1', '2', '3"']
+root - INFO - ["'1", '2', "3'"]
+root - INFO - ["'1", '2', "3'"]
+root - INFO - ["'1", '2', "3'"]
+root - INFO - ['1', '2', '3', '4']
+root - INFO - ['1', '2', '3', '4']
+root - INFO - ['1', '2', '3', '4']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['1', '2', '3', '4']
+root - INFO - ['1', '2', '3', '4']
+root - INFO - ['1', '2', '3', '4']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['1', '2', '3', '4']
+root - INFO - ['1', '2', '3', '4']
+root - INFO - ['1', '2', '3', '4']
+root - INFO - ['1', '2', '3']
+root - INFO - ['1', '2', '3']
+root - INFO - ['1', '2', '3']
+root - INFO - ['"1', '2', '3', '4', "5'"]
+root - INFO - ['"1', '2', '3', '4', "5'"]
+root - INFO - ['"1', '2', '3', '4', "5'"]
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"', '1', '2', '3', '4', '5"']
+root - INFO - ['"', '1', '2', '3', '4', '5"']
+root - INFO - ['"', '1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ["'1", '2', '3', '4', "5'"]
+root - INFO - ["'1", '2', '3', '4', "5'"]
+root - INFO - ["'1", '2', '3', '4', "5'"]
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3', '4', '5"']
+root - INFO - ['"1', '2', '3']
+root - INFO - ['"1', '2', '3']
+root - INFO - ['"1', '2', '3']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['"1', '2', '3']
+root - INFO - ['"1', '2', '3']
+root - INFO - ['"1', '2', '3']
+root - INFO - ['"1', '2"']
+root - INFO - ['"1', '2"']
+root - INFO - ['"1', '2"']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['"1,2"']
+root - INFO - ['"1,2"']
+root - INFO - ['"1,2"']
+root - INFO - ['"1', ',', '2"']
+root - INFO - ['"1', ',', '2"']
+root - INFO - ['"1', ',', '2"']
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['"1', ',', '2"']
+root - INFO - ['"1', ',', '2"']
+root - INFO - "1-2="
+root - INFO - 5=6
+telegram.ext.updater - WARNING - Exiting immediately!
+root - INFO - ['"', '1', '2', '3"']
+root - INFO - ['"', '1', '2', '3"']

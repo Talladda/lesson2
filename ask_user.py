@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 answer = {
     "привет": "И тебе привет!", 
     "как дела": "Лучше всех", 
@@ -22,7 +21,6 @@ def main(question, answer):
     else:
         return 1
     print(get_answer(question, answer))
-=======
 answer = {
     "привет": "И тебе привет!", 
     "как дела": "Лучше всех", 
@@ -46,5 +44,4 @@ def main(question, answer):
     else:
         return 1
     print(get_answer(question, answer))
->>>>>>> 81ab7f4369cf5ae28a34288571973b0f51165406
 main(question, answer)
